@@ -1,0 +1,11 @@
+{
+    "board": {
+        "package": "arduino",
+        "arch": "avr",
+        "board": "leonardo",
+        "parameters": []
+    },
+    "port": "\/dev\/cu.usbmodem1431",
+    "main-file": "",
+    "pre-build-commands": []
+}
